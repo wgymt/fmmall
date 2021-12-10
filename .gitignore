@@ -1,0 +1,5 @@
+# Project exclude paths
+/common/target/
+/entity/target/
+/mapper/target/
+/service/target/
